@@ -1,6 +1,6 @@
 # Web-Information-Extraction-Text-Classification
 
-![Can Machines distinguish between "Loans" & "Credit Cards"](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjiqZDAgPTjAhXxg-AKHTyNAtUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.toptal.com%2Fmachine-learning%2Fnlp-tutorial-text-classification&psig=AOvVaw0jbg8Kv7rKdMtgTCaQULGe&ust=1565378757930532)
+![Can Machines distinguish between "Loans" & "Credit Cards"](/Users/antonypaulson/Downloads/nlp-tutorial-text-classification-60b609c0b7a2622d2b0d6122f2b27f97.png)
 
 Saving time is what machines do best. Imagine having the super power to find within seconds material in which you are interested, from among a collection of numerous random posts. This project works towards achieving this ability by using advanced natural language processing tools to correctly identify topics to which a reddit post belongs.
 
