@@ -14,11 +14,14 @@ Files in the repository:
 
 Please view these in sequence to undersand the project in its totality
 
-1) Data extraction from Reddit 
+1) Presentation to get a high level overview
+(https://github.com/antonypaulson/Web-Information-Extraction-Text-Classification/blob/master/Web%20Information%20Extraction.pdf)
+
+2) Data extraction from Reddit 
 (https://github.com/antonypaulson/Web-Information-Extraction-Text-Classification/blob/master/ML_Models_and_evaluation.ipynb)
 
-2) Exploratory Data Analysis
+3) Exploratory Data Analysis
 (https://github.com/antonypaulson/Web-Information-Extraction-Text-Classification/blob/master/Reddit_Exporatory_Data_Analysis.ipynb)
 
-3) Machine Learning model application and evaluation 
+4) Machine Learning model application and evaluation 
 (https://github.com/antonypaulson/Web-Information-Extraction-Text-Classification/blob/master/ML_Models_and_evaluation.ipynb)
