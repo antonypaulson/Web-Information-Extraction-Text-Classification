@@ -9,3 +9,13 @@ The resultant machine learning model could be adapted for post filtering, post i
 Two highly similar topics were chosen for this project("Loans" and "Credit Cards"). This was to build a model which could strongly differentiate , even between similar topics. The NLP techniques first identified most frequent words within posts and their count in each individual post. Following this the Logistic regression ML model, Naïve Bayes model and a neural network model was trained on a random subset of the scraped data.
 
 The Logistic regression model correctly differentiated between posts achieving an accuracy of 95%. Naïve Bayes & neuralnetworks were not far behind with a classification accuracy of close to 93 % . Overall the project was highly successful and it serves as a great starting point to classify texts.
+
+Files in the repository:
+
+Please view these in sequence to undersand the project in its totality
+
+1) Data extraction from Reddit (https://github.com/antonypaulson/Web-Information-Extraction-Text-Classification/blob/master/ML_Models_and_evaluation.ipynb)
+
+2) Exploratory Data Analysis (https://github.com/antonypaulson/Web-Information-Extraction-Text-Classification/blob/master/Reddit_Exporatory_Data_Analysis.ipynb)
+
+3) Machine Learning model application and evaluation (https://github.com/antonypaulson/Web-Information-Extraction-Text-Classification/blob/master/ML_Models_and_evaluation.ipynb)
